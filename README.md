@@ -13,16 +13,16 @@ My main objective both in life and in the path of programming is to be able to g
 ## What technologies do i use
 The main technologies I handle are:
 * C
-- Javascript
-• React Js
-• Node.js
-• Express.js
-• PostgreSQL
-• Sequelize
-• GIT
-• HTML
-• CSS
-• Bootstrap
+* Javascript
+* React Js
+* Node.js
+* Express.js
+* PostgreSQL
+* Sequelize
+* GIT
+* HTML
+* CSS
+* Bootstrap
 I also know Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## How to reach me:
