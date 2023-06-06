@@ -26,7 +26,10 @@ The main technologies I handle are:
 * I also know Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## How to reach me:
-**Email:** diegoesteban.ders@gmail.com
+
+(https://img.shields.io/badge/Email-Contact%20Me-blue)](diegoesteban.ders@gmail.com)
+
+[![Email](diegoesteban.ders@gmail.com)
 **LinkedIn:** [Diego Rivera Spröhnle] (https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/)
 
 
