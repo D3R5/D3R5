@@ -27,9 +27,8 @@ The main technologies I handle are:
 
 ## How to reach me:
 
-(https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](diegoesteban.ders@gmail.com)
 
-[![Email](diegoesteban.ders@gmail.com)
+[![Email(https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)]](diegoesteban.ders@gmail.com)
 **LinkedIn:** [Diego Rivera Spröhnle] (https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/)
 
 
