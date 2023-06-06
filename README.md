@@ -11,8 +11,25 @@ Currently I dedicate myself to working on personal projects that allow me to imp
 ## Where am i going
 My main objective both in life and in the path of programming is to be able to generate positive changes in the world, the world is a huge place where programming can generate even more enormous changes, as a great wise man said: "If you can imagine it, you can program it".
 
-
 ## What technologies do i use
+The main technologies I handle are:
+• C
+• Javascript
+• React Js
+• Node.js
+• Express.js
+• PostgreSQL
+• Sequelize
+• GIT
+• HTML
+• CSS
+• Bootstrap
+I also know Adobe Photoshop, Adobe Illustrator, Figma.
+
+## How to reach me:
+
+**Email:** diegoesteban.ders@gmail.com
+**LinkedIn:** [Diego Rivera Spröhnle] (https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/)
 
 
 
