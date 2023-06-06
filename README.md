@@ -1,5 +1,4 @@
-# console.log('Hello World!!🌎🖖');
-# Hello my name is Diego Rivera 
+# console.log('Hello World!!🌎🖖'); //Hi I'm Diego
 
 ## Who I am?
 I am a full stack developer, oriented to Front-end design.
