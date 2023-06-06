@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 ## console.log('Hello World!!  🌎🖖');
 
 
-# About me
+### About me
 <!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
