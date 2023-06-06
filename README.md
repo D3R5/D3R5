@@ -25,15 +25,6 @@ The main technologies I handle are:
 * Bootstrap
 * I also know Adobe Photoshop, Adobe Illustrator, Figma.
 
-## How to reach me:
-
-
-[![Email(https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)]](diegoesteban.ders@gmail.com)
-**LinkedIn:** [Diego Rivera Spröhnle] (https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/)
-
-
-
-
 <!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
