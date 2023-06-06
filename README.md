@@ -27,7 +27,7 @@ The main technologies I handle are:
 
 ## How to reach me:
 <a href="diegoesteban.ders@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="diego rivera" height="30" width="40" />diegoesteban.ders@gmail.com</a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="diego rivera" height="30" width="40" />linkedin</a>
+<a href="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="diego rivera" height="30" width="40" />linkedin</a>
 <!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
