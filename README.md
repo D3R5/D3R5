@@ -24,7 +24,7 @@ The main technologies I handle are:
 * CSS
 * Bootstrap
 * I also know Adobe Photoshop, Adobe Illustrator, Figma.
-
+<a href="diegoesteban.ders@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="diego rivera" height="30" width="40" />diegoesteban.ders@gmail.com</a>
 <!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
