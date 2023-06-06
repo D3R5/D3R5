@@ -23,10 +23,9 @@ The main technologies I handle are:
 * HTML
 * CSS
 * Bootstrap
-I also know Adobe Photoshop, Adobe Illustrator, Figma.
+* I also know Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## How to reach me:
-
 **Email:** diegoesteban.ders@gmail.com
 **LinkedIn:** [Diego Rivera Spröhnle] (https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/)
 
