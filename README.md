@@ -14,6 +14,8 @@ My main objective both in life and in the path of programming is to be able to g
 The main technologies I handle are:
 * C
 * Javascript
+* Typescript
+* Python
 * React Js
 * Node.js
 * Express.js
