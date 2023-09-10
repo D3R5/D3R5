@@ -1,7 +1,7 @@
 # console.log('Hello World!!🌎🖖'); //Hi I'm Diego
 
 ## Who I am?
-I am a full stack developer, oriented to Front-end design.
+I am a full stack developer.
 Since I can remember I have been captivated with the world of Technology, I have had many jobs in the Electrical, Mechanical area and it was not until 2017 that I had my first real approach to programming by learning C for microcontrollers.
 
 ## What I do?
