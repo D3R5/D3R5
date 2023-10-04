@@ -15,6 +15,7 @@ The main technologies I handle are:
 * C
 * Javascript
 * Typescript
+* Java
 * Python
 * React Js
 * Node.js
