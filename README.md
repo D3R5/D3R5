@@ -21,11 +21,14 @@ The main technologies I handle are:
 * Node.js
 * Express.js
 * PostgreSQL
+* MySQL
+* MongoDB
 * Sequelize
 * GIT
 * HTML
 * CSS
 * Bootstrap
+* Tailwind
 * I also know Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## How to reach me:
