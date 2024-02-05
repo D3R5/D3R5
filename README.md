@@ -32,9 +32,11 @@ The main technologies I handle are:
 * I also know Adobe Photoshop, Adobe Illustrator, Figma.
 
 ## How to reach me:
-<a href="diegoesteban.ders@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="diego rivera" height="50" width="60" />diegoesteban.ders@gmail.com</a>
-<a href="https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="diego rivera" height="50" width="60" />linkedin</a>
-<a href="https://my-portfolio-d3r5.vercel.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="diego rivera" height="50" width="60" />Portfolio</a>
+<a href="diegoesteban.ders@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="diego rivera" height="45" width="55" />diegoesteban.ders@gmail.com</a>
+<br />
+<a href="https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="diego rivera" height="45" width="55" />linkedin</a>
+<br />
+<a href="https://my-portfolio-d3r5.vercel.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="diego rivera" height="45" width="55" />Portfolio</a>
 
 # Scan me to go to my portfolio
 
