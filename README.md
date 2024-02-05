@@ -39,7 +39,7 @@ The main technologies I handle are:
 # Scan or click to go to my portfolio
 
 <!-- Agrega el siguiente código debajo para ajustar el tamaño de la imagen -->
-<img src="https://github.com/D3R5/D3R5/assets/117954097/6ce43cf7-9711-482e-92bd-123745bc027f" alt="Untitled" width="300"/>
+<img src=" [![Untitled](https://github.com/D3R5/D3R5/assets/117954097/6ce43cf7-9711-482e-92bd-123745bc027f)](https://my-portfolio-d3r5.vercel.app)" alt="Untitled" width="300"/>
 <!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
