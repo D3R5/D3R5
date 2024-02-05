@@ -32,6 +32,10 @@ The main technologies I handle are:
 <a href="diegoesteban.ders@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="diego rivera" height="30" width="40" />diegoesteban.ders@gmail.com</a>
 <a href="https://www.linkedin.com/in/diego-rivera-sprohnle-4829b2198/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="diego rivera" height="30" width="40" />linkedin</a>
 <a href="https://my-portfolio-d3r5.vercel.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="diego rivera" height="30" width="40" />Website</a>
+
+# Scan to go to my portfolio
+![Untitled](https://github.com/D3R5/D3R5/assets/117954097/6ce43cf7-9711-482e-92bd-123745bc027f)
+
 <!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
