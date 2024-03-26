@@ -38,11 +38,7 @@ The main technologies I handle are:
 <br />
 <a href="https://my-portfolio-d3r5.vercel.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="diego rivera" height="25" width="35" />Portfolio</a>
 
-# Scan me to go to my portfolio
 
-<!-- Agrega el siguiente código debajo para ajustar el tamaño de la imagen -->
-<img src="https://github.com/D3R5/D3R5/assets/117954097/6ce43cf7-9711-482e-92bd-123745bc027f" alt="QR" width="300"/>
-<!--
 **D3R5/D3R5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
