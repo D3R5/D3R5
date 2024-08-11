@@ -1,13 +1,13 @@
-# console.log('Hello World!!🌎🖖'); //Hi I'm Diego
+# 🌍 console.log('Hello World!!🌎🖖'); //Hi I'm Diego
 
-## Who I am?
+## 🧑‍💻 Who I am?
 I am a full stack developer.
 Since I can remember I have been captivated with the world of Technology, I have had many jobs in the Electrical, Mechanical area and it was not until 2017 that I had my first real approach to programming by learning C for microcontrollers.
 
-## What I do?
+## 💼 What I do?
 Currently I dedicate myself to working on personal projects that allow me to improve my technical skills and learn new topics.
 
-## Where am i going
+## 🚀 Where am I going?
 My main objective both in life and in the path of programming is to be able to generate positive changes in the world, the world is a huge place where programming can generate even more enormous changes, as a great wise man said: "If you can imagine it, you can program it".
 
 ## 🌐 Socials:
