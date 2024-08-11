@@ -1,8 +1,12 @@
 # 🌍 console.log('Hello World!!🌎🖖'); //Hi I'm Diego
 
 ## 🧑‍💻 Who I am?
-I am a full stack developer.
-Since I can remember I have been captivated with the world of Technology, I have had many jobs in the Electrical, Mechanical area and it was not until 2017 that I had my first real approach to programming by learning C for microcontrollers.
+I am a full stack developer with extensive experience in structuring, developing, and maintaining innovative technological solutions. My focus is on driving social development and business success through impactful solutions. I have solid experience in web development, mobile applications, databases, and APIs, with strong skills in creating and managing complete systems from frontend to backend, as well as implementing security practices and performance optimization. I'm committed to ensuring workplace safety and well-being.
+
+Since I can remember, I have been captivated by the world of technology. I have had many jobs in the Electrical and Mechanical areas, and it wasn't until 2017 that I had my first real approach to programming by learning C for microcontrollers.
+
+My adaptability and critical thinking are complemented by effective communication skills, enabling me to collaborate productively in multidisciplinary environments and achieve common goals. I'm looking to continue challenging myself in projects that merge my technical experience with my passion for technological and social development, aiming to grow both personally and professionally.
+
 
 ## 💼 What I do?
 Currently I dedicate myself to working on personal projects that allow me to improve my technical skills and learn new topics.
