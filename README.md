@@ -16,7 +16,7 @@ My main objective both in life and in the path of programming is to be able to g
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diegooders) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-rivera-sprohnle) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26720342) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DiegooDers) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Diegooders) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@diegoestebanriverasprohnle3539) 
 
-## 🌟 Portfolio:
+# 🌟 Portfolio:
 <a href="https://my-portfolio-d3r5.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
